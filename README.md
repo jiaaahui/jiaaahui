@@ -10,7 +10,7 @@ I'm excited to learn the practical side of software development. My goals for th
 ## 🖼️ My Image
 Here is the image I chose to represent me:
 
-![My representative image](image.jpg) 
+![My representative image](1.png) 
 
 ## 🔗 My GitHub Profile
 You can view my full, personalized GitHub profile by following the link below.
