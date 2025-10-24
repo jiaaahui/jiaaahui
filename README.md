@@ -1,13 +1,10 @@
-## 👋 About Me
-Hello! I'm **Chew Jia Hui**, a Software Engineering student currently taking the Software Maintenance and Evolution course.
+# Hi there, I'm Chew Jia Hui 👋
 
-## 🎯 Course Expectations
-I'm excited to learn the practical side of software development. My goals for this course are:
-* To get hands-on experience with maintaining and improving existing code.
-* To understand the best practices that keep software running smoothly.
+### Final Year Software Engineering Student at Universiti Malaya
+
+I'm a passionate software engineering student focused on building clean, efficient, and user-friendly applications. I'm currently in my final year and excited about applying my skills to real-world challenges.
+
 ---
 
-## 🔗 My GitHub Profile
-You can view my full, personalized GitHub profile by following the link below.
-
-[**Click here to see my profile**](https://github.com/jiaaahui)
+## 📫 How to Reach Me
+* **Email:** `chewjh0707@gmail.com`
