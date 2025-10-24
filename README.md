@@ -1,5 +1,3 @@
-# Tutorial 1 Submission
-
 ## 👋 About Me
 Hello! I'm **Chew Jia Hui**, a Software Engineering student currently taking the Software Maintenance and Evolution course.
 
